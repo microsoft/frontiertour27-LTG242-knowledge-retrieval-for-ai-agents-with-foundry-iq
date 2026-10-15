@@ -41,7 +41,7 @@ Together demos use 4:15, leaving 10:45 for the other 16 slides and transitions.
 
 | Clock | Slide | Time | Delivery beat |
 | --- | ---: | ---: | --- |
-| Before start | 1 | - | Hold on the Microsoft AI Tour bumper. |
+| Before start | 1 | - | Hold on the Microsoft Frontier Tour bumper. |
 | 0:00-0:20 | 2 | 0:20 | Introduce the session and yourself. |
 | 0:20-0:40 | 3 | 0:20 | Introduce Caldova and its knowledge spread across formats, systems, and permissions. |
 | 0:40-1:05 | 4 | 0:25 | Position Foundry IQ around relevant, current, and authorized retrieval. |
