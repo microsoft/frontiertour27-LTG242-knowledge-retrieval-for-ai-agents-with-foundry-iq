@@ -476,9 +476,9 @@ fastmcp==4.0.0b3 \
     --hash=sha256:1edea49ef12f6a47721ec69324bba31302eb0faccff939f2851026992fa62f93 \
     --hash=sha256:4a68fb3877f160ca18ca5be4ee80c0d68c89f922b927734c36e6e99827d814fc
     # via ltg242-foundry-infrastructure
-fastmcp-slim==4.0.0b3 \
-    --hash=sha256:0647126ce70ebf0890912954ffb5cd162fb63bb9169a81b078ae960c8c09830e \
-    --hash=sha256:59ea0be9978b45cfe3ab47f3b7413b36a5b4b929dff723d48235899eada8bb42
+fastmcp-slim==4.1.2 \
+    --hash=sha256:4b703ddbd35165ebf03b2cc560688f458f3fe4db11e635074fcc303496734154 \
+    --hash=sha256:58a4e547a0f85cfee2d2219677ed31c0f1c4911741a5c91a1ee5fbf69dde35fa
     # via fastmcp
 frozenlist==1.8.0 \
     --hash=sha256:0325024fe97f94c41c08872db482cf8ac4800d80e79222c6b0b7b162d5b13686 \
