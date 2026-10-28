@@ -17,7 +17,7 @@ dependencies = [
     "greenlet>=3.2.4,<4",
     "sqlalchemy>=2.0.43,<3",
     "psycopg[binary]>=3.2.10,<4",
-    "fastmcp==4.0.0b3"
+    "fastmcp==4.1.2"
 ]
 
 [dependency-groups]

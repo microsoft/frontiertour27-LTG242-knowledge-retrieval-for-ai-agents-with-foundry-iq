@@ -472,9 +472,9 @@ exceptiongroup==1.3.1 \
     --hash=sha256:8b412432c6055b0b7d14c310000ae93352ed6754f70fa8f7c34141f91c4e3219 \
     --hash=sha256:a7a39a3bd276781e98394987d3a5701d0c4edffb633bb7a5144577f82c773598
     # via fastmcp-slim
-fastmcp==4.0.0b3 \
-    --hash=sha256:1edea49ef12f6a47721ec69324bba31302eb0faccff939f2851026992fa62f93 \
-    --hash=sha256:4a68fb3877f160ca18ca5be4ee80c0d68c89f922b927734c36e6e99827d814fc
+fastmcp==4.1.2 \
+    --hash=sha256:1b70a8467ac4dd6416c7c101cd54562f089b55e6636a196b4a20bdac3ccb0284 \
+    --hash=sha256:3d5eddfe624b002ebcf202d5a55ff13bdce6925ce58bfcaeb28bc2e3bbee1830
     # via ltg242-foundry-infrastructure
 fastmcp-slim==4.0.0b3 \
     --hash=sha256:0647126ce70ebf0890912954ffb5cd162fb63bb9169a81b078ae960c8c09830e \
