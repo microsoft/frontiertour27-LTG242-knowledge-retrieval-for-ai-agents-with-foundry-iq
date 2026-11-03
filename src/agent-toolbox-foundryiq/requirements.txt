@@ -210,9 +210,9 @@ azure-storage-blob==12.31.0b1 \
     --hash=sha256:bbd7fe8f660bd829dada1d80af6cfa8b92914bc0ef4a6a86a3ed1a13efae83b9 \
     --hash=sha256:e16280b602ff746de905b2e0164d7feed49c653fa842c572279355c029f7f32c
     # via azure-ai-projects
-certifi==2026.7.22 \
-    --hash=sha256:62f22742b58a1a33014a2b6b706588a8d7e2a88ae7bd1a6ebe8c992928483775 \
-    --hash=sha256:741e2c3b351ddf169a738da9f2c048608ff7f2c5cc02f1ebc6b118bb090d5d55
+certifi==2026.10.18 \
+    --hash=sha256:73191c47aaa79da394e8fee2dbc2ec827432cab56311122c9e47abf79e390f62 \
+    --hash=sha256:b9995d97b64d0431a5af837d8ca8cd6238104d1f319f04bd93ea43124d6c861e
     # via
     #   httpcore
     #   httpx
